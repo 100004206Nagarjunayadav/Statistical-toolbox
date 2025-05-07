@@ -2,8 +2,6 @@
 A comprehensive toolbox of statiscal tools and techniques from the Tools and Methods of Data Analysis course
 # Save the provided README.md content in the root directory of the statistical toolbox
 
-readme_content = """# Statistical Toolbox
-
 Welcome to the Statistical Toolbox! This repository includes a set of interactive Jupyter Notebooks for common statistical analyses, including visualizations and explanations.
 
 ---
